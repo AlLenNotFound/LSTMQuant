@@ -1,0 +1,13 @@
+tushare
+
+xlrd
+
+openpyxl
+
+sklearn
+
+pandas
+
+matplotlib
+
+numpy
